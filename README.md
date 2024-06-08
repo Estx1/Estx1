@@ -1,4 +1,5 @@
-## Hi there 👋
+Olá👋
+Estou estudando na Alura e me desenvolvendo na linguagem JavaScript.
 
 <!--
 **Estx1/Estx1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
